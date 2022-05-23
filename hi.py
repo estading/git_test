@@ -1,2 +1,2 @@
 #Prints the string 'hi'
-print("hi")
+print("hello WORLD!")
