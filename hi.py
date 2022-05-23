@@ -1,2 +1,3 @@
 #Prints the string 'hi'
-print("hello WORLD!")
+for _ in range(4):
+	print('hi')
